@@ -1,0 +1,6 @@
+pytorch==1.8.0
+torchvision==0.7.0
+timm==0.4.5
+numpy
+scikit-learn
+pandas
